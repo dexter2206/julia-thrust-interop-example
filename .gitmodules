@@ -1,0 +1,6 @@
+[submodule "vendor/thrust"]
+	path = vendor/thrust
+	url = git@github.com:NVIDIA/thrust.git
+[submodule "vendor/libcudacxx"]
+	path = vendor/libcudacxx
+	url = git@github.com:NVIDIA/libcudacxx.git
