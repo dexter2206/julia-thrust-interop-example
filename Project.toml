@@ -1,0 +1,13 @@
+name = "ThrustInteropExample"
+uuid = "2d3f8bea-999b-4c99-a86f-c6364347a1bb"
+authors = ["Konrad Jałowiecki <dexter2206@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
